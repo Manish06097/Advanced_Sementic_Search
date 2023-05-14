@@ -28,6 +28,7 @@ All these components – SPLADE, sentence transformer model, and the hybrid sear
 
 By combining sentence transformers and SPLADE in a hybrid search approach, our project presents a comprehensive question-answering system that is capable of handling both semantic understanding and precise term matching. This makes it an effective tool for any use-case that requires an advanced search capability, promising high-quality results that balance both precision and context understanding.
 
+![image](https://github.com/Manish06097/Advanced_Sementic_Search/assets/73208573/121956fc-2372-44c3-bc82-3fdf8b453a11)
 
 How to run the Project 
 1. first clone the project 
