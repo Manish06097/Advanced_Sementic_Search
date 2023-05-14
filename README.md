@@ -27,3 +27,21 @@ All these components – SPLADE, sentence transformer model, and the hybrid sear
 6. Conclusion
 
 By combining sentence transformers and SPLADE in a hybrid search approach, our project presents a comprehensive question-answering system that is capable of handling both semantic understanding and precise term matching. This makes it an effective tool for any use-case that requires an advanced search capability, promising high-quality results that balance both precision and context understanding.
+
+
+How to run the Project 
+1. first clone the project 
+2. In backend folder create a .env file and 
+  ```
+model_id_ner = dslim/bert-base-NER
+dense_model_id=msmarco-bert-base-dot-v5
+sparse_model_id = naver/efficient-splade-V-large-doc
+api_key=<Pinecone api key>
+environment=<Pinecone Enviroment>
+index_name =<Index Name>
+batch_size = 64
+  ```
+  
+3. now run uvicorn app:app 
+4. now in frontent folder write npm install
+5. then npm start
