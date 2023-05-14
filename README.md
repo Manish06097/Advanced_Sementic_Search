@@ -3,8 +3,7 @@
 
 ## WorkFlow
 
-![Workflow](https://github.com/Manish06097/Advanced_Sementic_Search/assets/73208573/96ed55b7-78d3-4e33-86f5-98d93c6a2fee | width=100)
-
+ <img src="[https://github.com/Manish06097/Advanced_Sementic_Search/blob/main/Workflow.png" width="500" height="500">
 1. Introduction
 
 In our project, we introduce a novel approach to question-answering systems by integrating the hybrid search methodology, which makes use of both dense and sparse vectors. This approach allows us to encompass a wide array of search features including semantic understanding through dense vectors and exact matching plus keyword searching via sparse vectors.
